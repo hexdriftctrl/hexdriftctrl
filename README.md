@@ -8,7 +8,7 @@ Designing systems that scale, evolve, and stay understandable.
 
 ### 🧠 Focus
 - Distributed and event-driven systems  
-- Backend platforms and APIs (.NET)  
+- Backend platforms and APIs  
 - Cloud-native architecture and reliability  
 
 ---
