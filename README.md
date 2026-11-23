@@ -1,3 +1,5 @@
+for freelance work? do reach, [email](mailto:cherisher_skirmish964@simplelogin.com) :)
+
 ### `whoami`
 Software engineer focused on resilient backend systems, application security, and privacy-preserving infrastructure. 
 Designing systems that scale, evolve, and stay understandable.
