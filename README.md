@@ -1,29 +1,17 @@
-# Mariano Fourzans
-
-⚙️ Distributed Systems · Backend Architecture · Cloud Platforms
-
+### `whoami`
+Software engineer focused on resilient backend systems, application security, and privacy-preserving infrastructure. 
 Designing systems that scale, evolve, and stay understandable.
 
----
+### Core Focus
+* **Systems & Backend:** Distributed services, event-driven systems, API design, automated testing, and containerized deployments.
+* **Security & Privacy:** Threat modeling, secure coding practices, network segmentation, and self-hosted hardening.
 
-### 🧠 Focus
-- Distributed and event-driven systems  
-- Backend platforms and APIs  
-- Cloud-native architecture and reliability  
+### Tooling & Stack
+* **Languages:** C# / .NET · TypeScript · Bash / PowerShell
+* **Infrastructure & Sec:** Docker · Linux · Git · Static Analysis / SAST · Network Isolation
 
----
-
-### 🧩 Principles
-- Simplicity over complexity  
-- Architecture over frameworks  
-- Long-term maintainability over short-term wins  
-- Systems designed for change  
-
----
-
-### 🌍 Presence
-- 💻 GitHub → https://github.com/fourzans  
-- 🔗 LinkedIn → https://www.linkedin.com/in/fourzans  
+### Current Interests
+* Exploring local LLM tooling, zero-trust homelab architectures, and open-source security tooling.
 
 ---
 
